@@ -30,6 +30,6 @@
 
     </dependencies>
     <properties>
-        <solr.version>4.3.0</solr.version>
+        <solr.version>8.2.0</solr.version>
     </properties>
 </project>
